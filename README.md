@@ -1,8 +1,5 @@
-# Clean The City-Complete
+# Clean The City
 
-Made Using p5.play boiler-plate
+Made Using p5.play
 
-Github-Pages-link : https://dharmiksanthosh.github.io/Clean-The-City-Complete/
-
-App-link : https://x.thunkable.com/copy/ea62d985d6a1fde3872b8136ccfe839e
-
+Play at : https://jackydevx.github.io/Clean-The-City-Complete/
